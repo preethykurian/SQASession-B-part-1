@@ -1,1 +1,5 @@
 read student id, student name, email id
+read marks
+if marks >=50 print pass
+else print fail
+end
